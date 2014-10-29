@@ -1,0 +1,17 @@
+{
+  "name": "nowlistening",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "twitter": "^0.2.13"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:stephen/nowlistening.git"
+  },
+  "author": "Stephen Wan <stephen@stephenwan.net>",
+  "license": "MIT",
+  "homepage": "https://github.com/stephen/nowlistening"
+}
